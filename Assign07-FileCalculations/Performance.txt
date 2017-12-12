@@ -1,0 +1,15 @@
+Roberts		4	5	3	4	3
+Brown		3	3	4	2	3
+Jones		5	5	5	5	4
+Williams	4	4	5	4	5
+Smith		2	3	3	1	2
+Anderson	3	4	4	2	3	
+Barrett		5	4	5	4	4
+Maxwell		3	3	4	5	4
+Grant		5	3	4	4	3
+Campbell	4	3	5	4	5
+Chavez		5	4	4	4	5
+Coursey		1	2	1	3	4
+Hanrahan	4	3	3	5	4
+Pindar		4	5	3	4	4
+Turner		5	5	4	5	5
